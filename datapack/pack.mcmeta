@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Datapack for the gatocraft server, based off SMHerobrine's custom disc packs",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": 107
+    }
+  }

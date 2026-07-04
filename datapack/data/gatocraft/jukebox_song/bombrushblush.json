@@ -1,0 +1,11 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "text": "Callie Cuttlefish - Bomb Rush Blush"
+  },
+  "length_in_seconds": 144.0,
+  "sound_event":
+  {
+    "sound_id": "minecraft:music_disc.bombrushblush"
+}
+}
