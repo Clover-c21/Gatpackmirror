@@ -1,0 +1,66 @@
+
+{
+  "music_disc.bombrushblush": {
+    "sounds": [
+      {
+        "name": "records/bombrushblush",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.ebbnflow": {
+    "sounds": [
+      {
+        "name": "records/ebbnflowkfad",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.speedrunningglitched": {
+    "sounds": [
+      {
+        "name": "records/speedrunningglitched",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.iwannakno": {
+    "sounds": [
+      {
+        "name": "records/iwannakno",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.iwannablu": {
+    "sounds": [
+      {
+        "name": "records/iwannablu",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.[BIGSHOT]": {
+    "sounds": [
+      {
+        "name": "records/[BIGSHOT]",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.bigshotjoel": {
+    "sounds": [
+      {
+        "name": "records/bigshotjoel",
+        "stream": true
+      }
+    ]
+  }
+  
+}

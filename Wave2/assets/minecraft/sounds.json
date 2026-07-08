@@ -1,0 +1,48 @@
+
+{
+  "music_disc.stolenbypirates": {
+    "sounds": [
+      {
+        "name": "records/stolenbypirates",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.nightcore": {
+    "sounds": [
+      {
+        "name": "records/nightcore",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.cascada": {
+    "sounds": [
+      {
+        "name": "records/cascada",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.susannah": {
+    "sounds": [
+      {
+        "name": "records/susannah",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.modelland": {
+    "sounds": [
+      {
+        "name": "records/modelland",
+        "stream": true
+      }
+    ]
+  }
+  
+}
