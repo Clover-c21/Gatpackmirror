@@ -1,0 +1,37 @@
+{
+  "custom.speedrunningglitched": {
+    "sounds": [
+      "custom/speedrunningglitched"
+    ]
+  },
+  "custom.ebbnflowkfad": {
+    "sounds": [
+      "custom/ebbnflowkfad"
+    ]
+  },
+  "custom.iwannablu": {
+    "sounds": [
+      "custom/iwannablu"
+    ]
+  },
+  "custom.bigshotjoel": {
+    "sounds": [
+      "custom/bigshotjoel"
+    ]
+  },
+  "custom.bigshot": {
+    "sounds": [
+      "custom/bigshot"
+    ]
+  },
+  "custom.iwannakno": {
+    "sounds": [
+      "custom/iwannakno"
+    ]
+  },
+  "custom.bombrushblush": {
+    "sounds": [
+      "custom/bombrushblush"
+    ]
+  }
+}
