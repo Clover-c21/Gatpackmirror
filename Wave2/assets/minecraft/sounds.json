@@ -1,48 +1,27 @@
-
 {
-  "music_disc.stolenbypirates": {
+  "custom.susannah": {
     "sounds": [
-      {
-        "name": "records/stolenbypirates",
-        "stream": true
-      }
+      "custom/susannah"
     ]
   },
-
-  "music_disc.nightcore": {
+  "custom.cascada": {
     "sounds": [
-      {
-        "name": "records/nightcore",
-        "stream": true
-      }
+      "custom/cascada"
     ]
   },
-
-  "music_disc.cascada": {
+  "custom.nightcore": {
     "sounds": [
-      {
-        "name": "records/cascada",
-        "stream": true
-      }
+      "custom/nightcore"
     ]
   },
-
-  "music_disc.susannah": {
+  "custom.stolenbypirates": {
     "sounds": [
-      {
-        "name": "records/susannah",
-        "stream": true
-      }
+      "custom/stolenbypirates"
     ]
   },
-
-  "music_disc.modelland": {
+  "custom.modelland": {
     "sounds": [
-      {
-        "name": "records/modelland",
-        "stream": true
-      }
+      "custom/modelland"
     ]
   }
-  
 }
