@@ -1,27 +1,42 @@
 {
   "custom.susannah": {
     "sounds": [
-      "custom/susannah"
+      {
+        "name": "custom/susannah",
+        "stream": true
+      }
     ]
   },
   "custom.cascada": {
     "sounds": [
-      "custom/cascada"
+      {
+        "name":"custom/cascada",
+        "stream": true
+      }
     ]
   },
   "custom.nightcore": {
     "sounds": [
-      "custom/nightcore"
+      {
+        "name": "custom/nightcore",
+        "stream": true
+      }
     ]
   },
   "custom.stolenbypirates": {
     "sounds": [
-      "custom/stolenbypirates"
+      {
+        "name": "custom/stolenbypirates",
+        "stream": true
+      }
     ]
   },
   "custom.modelland": {
     "sounds": [
-      "custom/modelland"
+      {
+        "name": "custom/modelland",
+        "stream": true
+      }
     ]
   }
 }

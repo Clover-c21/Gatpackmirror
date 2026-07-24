@@ -1,37 +1,58 @@
 {
   "custom.speedrunningglitched": {
     "sounds": [
-      "custom/speedrunningglitched"
+      {
+        "name": "custom/speedrunningglitched",
+        "stream": true
+      }
     ]
   },
   "custom.ebbnflowkfad": {
     "sounds": [
-      "custom/ebbnflowkfad"
+      {
+      "name": "custom/ebbnflowkfad",
+      "stream": true
+      }
     ]
   },
   "custom.iwannablu": {
     "sounds": [
-      "custom/iwannablu"
+      {
+        "name": "custom/iwannablu",
+        "stream": true
+      }
     ]
   },
   "custom.bigshotjoel": {
     "sounds": [
-      "custom/bigshotjoel"
+      {
+        "name": "custom/bigshotjoel",
+        "stream": true
+      }
     ]
   },
   "custom.bigshot": {
     "sounds": [
-      "custom/bigshot"
+      {
+        "name": "custom/bigshot",
+        "stream": true
+      }
     ]
   },
   "custom.iwannakno": {
     "sounds": [
-      "custom/iwannakno"
+      {
+        "name": "custom/iwannakno",
+        "stream": true
+      }
     ]
   },
   "custom.bombrushblush": {
     "sounds": [
-      "custom/bombrushblush"
+      {
+        "name": "custom/bombrushblush",
+        "stream": true
+      }
     ]
   }
 }
