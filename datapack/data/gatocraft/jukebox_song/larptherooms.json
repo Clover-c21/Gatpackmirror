@@ -1,0 +1,11 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "text": "Larping the Rooms - The Larping Tombstone"
+  },
+  "length_in_seconds": 150,
+  "sound_event":
+  {
+    "sound_id": "minecraft:custom.larptherooms"
+}
+}

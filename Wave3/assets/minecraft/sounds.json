@@ -1,0 +1,26 @@
+{
+  "custom.mewmewmagic": {
+    "sounds": [
+      {
+        "name": "custom/mewmewmagic",
+        "stream": true
+      }
+    ]
+  },
+  "custom.seethemseethem": {
+    "sounds": [
+      {
+        "name":"custom/seethemseethem",
+        "stream": true
+      }
+    ]
+  },
+  "custom.larptherooms": {
+    "sounds": [
+      {
+        "name": "custom/larptherooms",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": [
+      88,
+      0
+    ],
+    "description": "§fA resource pack for the §5Gatocraft §fserver! Adds custom music and paintings for the datapack to use."
+  }
+}
